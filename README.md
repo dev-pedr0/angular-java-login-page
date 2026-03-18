@@ -19,5 +19,17 @@ O sistema roda em http://localhost:4200 e possui as rotas:
 - /register
 - /user: tela de teste para garantir que o usuário fez login corretamente
 
+## Utilização
+Requisitos:
+- Node.js
+- Angular CLI
+
+Clone o projeto, instale as dependencias e rode: 
+```
+git clone https://github.com/dev-pedr0/angular-java-login-page 
+npm install
+npm run start
+```
+
 ## Backend
 O backend pode ser encontrado [aqui](https://github.com/dev-pedr0/angular-java-api).
